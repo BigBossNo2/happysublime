@@ -3,6 +3,6 @@ layout: default
 title: About
 ---
 
-### Peter 是谁？
+### 废物四号是谁
 
-你好，我是 Peter，不过网上我一般叫 happypeter，比如我的 github 账号是 <http://github.com/happypeter> 。电子邮箱 happypeter1983@gmail.com 。我是个 [RubyOnRails](http://rubyonrails.org/) 全栈型网站开发者，会定期在 <http://haoduoshipin.com> 上发布视频，分享我在工作中总结的一些实用开发技巧。
+你好，我是 废物四号，这个完全是超别人的东西，就是尝试着做一个类似笔记的东西。以后应该会写点自己的东西吧！
